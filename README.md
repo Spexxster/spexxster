@@ -34,3 +34,8 @@
 <p align="center">
 </p>
 
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spexxster&layout=compact&theme=dark)
+<br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=Spexxster&show_icons=true&count_private=true&theme=dark)
