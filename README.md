@@ -14,6 +14,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" height="20" width="20" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg" alt="lua" height="20" width="20" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="nodejs" height="20" width="20" />
+<img align="center" src="https://cdn.discordapp.com/attachments/1054768800656015381/1147933695156686989/download-removebg-preview.png" alt="html" height="20" width="20" />
 </p>
 
 <h2 align="center">current projects</h2>
