@@ -21,14 +21,16 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [Project Z](https://discord.gg/7gTkC5MsTS) *(FiveM Serious-RP server)*
-- [FNR](https://discord.gg/fnr) *(FiveM Semi-RP/Fragging server)*
+<!-- - [Project Z](https://discord.gg/7gTkC5MsTS) *(FiveM Serious-RP server)* -->
+- [FNR](https://discord.gg/fnr5m) *(FiveM Semi-RP/Fragging server) Coming Soon*
+- [CTD](https://discord.gg/ctd5m) *(FiveM Semi-RP/Fragging server) Inactive*
 <!-- - [LUNA](https://discord.gg/luna5m) *(FiveM Semi-RP/Fragging server)* -->
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
-- [LUNA](https://discord.gg/luna5m) *(FiveM Semi-RP/Fragging server)*
+- [LUNA](https://discord.gg/luna5m) *(FiveM Semi-RP/Fragging server) Discontinued*
+- [Project Z](https://discord.gg/7gTkC5MsTS) *(FiveM Serious-RP server) Discontinued*
 
 <img src="https://komarev.com/ghpvc/?username=Spexxster&color=lightgray" alt="fax" width="" height="">
 <p align="center">
