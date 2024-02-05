@@ -28,9 +28,9 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [CTD](https://discord.gg/ctd5m) *(FiveM Semi-RP/Fragging server) Discontinued*
 - [LUNA](https://discord.gg/luna5m) *(FiveM Semi-RP/Fragging server) Discontinued*
 - [Project Z](https://discord.gg/7gTkC5MsTS) *(FiveM Serious-RP server) Discontinued*
-- [CTD](https://discord.gg/ctd5m) *(FiveM Semi-RP/Fragging server) Discontinued*
 
 <img src="https://komarev.com/ghpvc/?username=Spexxster&color=lightgray" alt="fax" width="" height="">
 <p align="center">
