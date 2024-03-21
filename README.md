@@ -20,7 +20,7 @@
 
 (Newest -> Oldest)
 <!-- - [Project Z](https://discord.gg/7gTkC5MsTS) *(FiveM Serious-RP server)* -->
-- [FNR](https://discord.gg/fnr5m) *(FiveM Semi-RP/Fragging server) Coming Soon*
+- [FNR](https://discord.gg/fnruk) *(FiveM Semi-RP/Fragging server) Coming Soon*
 <!-- - [LUNA](https://discord.gg/luna5m) *(FiveM Semi-RP/Fragging server)* -->
 
 <h2 align="center">past projects</h2>
