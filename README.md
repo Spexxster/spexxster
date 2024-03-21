@@ -1,9 +1,7 @@
 <h1>spexxster</h1>
 
 - Spexxster
-- 16
-- united kingdom
-- Learning how to code in various languages
+- United Kingdom
 
 <p align="center">
 </p>
@@ -14,8 +12,8 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" height="20" width="20" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg" alt="lua" height="20" width="20" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="nodejs" height="20" width="20" />
-<img align="center" src="https://cdn.discordapp.com/attachments/1054768800656015381/1147933695156686989/download-removebg-preview.png" alt="html" height="20" width="20" />
-<img align="center" src="https://cdn.discordapp.com/attachments/1054768800656015381/1147933969132814376/198-1985012_transparent-css3-logo-png-css-logo-transparent-background-removebg-preview.png" alt="css" height="20" width="20" />
+<!-- <img align="center" src="https://cdn.discordapp.com/attachments/1054768800656015381/1147933695156686989/download-removebg-preview.png" alt="html" height="20" width="20" />
+<img align="center" src="https://cdn.discordapp.com/attachments/1054768800656015381/1147933969132814376/198-1985012_transparent-css3-logo-png-css-logo-transparent-background-removebg-preview.png" alt="css" height="20" width="20" /> -->
 </p>
 
 <h2 align="center">current projects</h2>
